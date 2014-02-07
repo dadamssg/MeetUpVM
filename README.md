@@ -103,6 +103,6 @@ If you don't want to have to manually edit your `hosts` file, download this [Vag
 
 10. If you see a blank screen you probably need to change the permissions on Laravel's storage directory. 
 
-	If you're on a mac, issue this command in another terminal outside of your vm, `sudo chmod -R 777 /var/www/awesomeapp/app/storage`
+	If you're on a mac...In another terminal outside of your vm `cd` into your `awesomeapp` directory and update the permissions with `sudo chmod -R 777 app/storage`. 
 
 	If you're on windows you should be able to right click on the **storage** directory and manually change the settings. 
