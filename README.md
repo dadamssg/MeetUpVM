@@ -52,7 +52,7 @@ If you don't want to have to manually edit your `hosts` file, download this [Vag
 	
 	**Super Quick VIM tutorial**: press `i` to go into "insert mode", use your arrow keys to navigate to where you want to start typing, type some stuff, press your `Esc` key to get out of "insert mode", enter `:wq` to write and quit the file. 
 
-	You conf file should like like this(notice the appendage of `public` to `/var/www/awesomeapp`)
+	Your conf file should like like this(notice the appendage of `public` to `/var/www/awesomeapp`)
 
 	```ApacheConf
 	# ************************************
