@@ -1,5 +1,23 @@
 MeetUpVM
 ========
+This the configuration to run Debain Wheezy 7.2 x64 with Virtualbox 4.3 at http://13.13.13.13
+
+It will include the following:
+
+ - php 5.5
+ - vim
+ - apache
+ 	- vhost: awesomeapp.dev 
+ - composer
+ - xdebug
+ - PostgreSQL 9.3
+ 	- root password: root
+ 	- db name: meetup
+ 	- db user
+	 	- username: root
+	 	- password: root
+
+---
 
 1. Clone/download the repo
 
