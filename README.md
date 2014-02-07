@@ -20,7 +20,14 @@ It will include the following:
 
 ---
 
-If you don't want to have to manually edit your `hosts` file, download this [Vagrant::Hostupdater](https://github.com/cogitatio/vagrant-hostsupdater) plugin first.
+##Required
+
+1. [Vagrant](http://www.vagrantup.com/downloads.html)
+2. [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
+
+---
+
+If you don't want to have to manually edit your `hosts` file, download this [Vagrant::Hostupdater](https://github.com/cogitatio/vagrant-hostsupdater) plugin first. `vagrant plugin install vagrant-hostsupdater`
 
 ---
 
