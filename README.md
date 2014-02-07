@@ -89,7 +89,7 @@ It will include the following:
 
 8. Restart apache, `sudo service apache2 restart`. 
 
-9. You should now be able to go to [awesomeapp.dev](http://awesomeapp.dev) in your browser and see Laravel running. 
+9. You should now be able to go to [http://awesomeapp.dev](http://awesomeapp.dev) in your browser and see Laravel running. 
 
 10. If you see a blank screen you probably need to change the permissions on Laravel's storage directory. 
 
