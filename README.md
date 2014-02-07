@@ -19,8 +19,7 @@ It will include the following:
 	 	- password: root
 
 ---
-
-##Required
+###Required
 
 1. [Vagrant](http://www.vagrantup.com/downloads.html)
 2. [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
