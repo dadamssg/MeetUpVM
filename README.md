@@ -19,6 +19,8 @@ It will include the following:
 	 	- password: root
 
 ---
+If you don't want to have to manually edit your `hosts` file, download this [Vagrant::Hostupdater](https://github.com/cogitatio/vagrant-hostsupdater) plugin first.
+---
 
 1. Clone/download the repo
 
