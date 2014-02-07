@@ -7,8 +7,8 @@ It will include the following:
  - git
  - vim
  - apache
- - php 5.5
  	- vhost: awesomeapp.dev 
+ - php 5.5
  - composer
  - xdebug
  - PostgreSQL 9.3
