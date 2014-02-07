@@ -1,6 +1,6 @@
 MeetUpVM
 ========
-This the configuration to run Debain Wheezy 7.2 x64 with Virtualbox 4.3 at http://13.13.13.13
+This is a vagrant/puppet configuration to run Debain Wheezy 7.2 x64 with Virtualbox 4.3 at http://13.13.13.13
 
 It will include the following:
 
@@ -94,5 +94,5 @@ It will include the following:
 10. If you see a blank screen you probably need to change the permissions on Laravel's storage directory. 
 
 	If you're on a mac, issue this command in another terminal outside of your vm, `sudo chmod -R 777 /var/www/awesomeapp/app/storage`
-	
+
 	If you're on windows you should be able to right click on the **storage** directory and manually change the settings. 
