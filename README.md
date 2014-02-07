@@ -4,9 +4,10 @@ This the configuration to run Debain Wheezy 7.2 x64 with Virtualbox 4.3 at http:
 
 It will include the following:
 
- - php 5.5
+ - git
  - vim
  - apache
+ - php 5.5
  	- vhost: awesomeapp.dev 
  - composer
  - xdebug
