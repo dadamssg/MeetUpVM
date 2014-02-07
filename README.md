@@ -93,5 +93,6 @@ It will include the following:
 
 10. If you see a blank screen you probably need to change the permissions on Laravel's storage directory. 
 
-	If you're on a mac issue this command in another terminal outside of your vm, `sudo chmod -R 777 /var/www/awesomeapp/app/storage`
+	If you're on a mac, issue this command in another terminal outside of your vm, `sudo chmod -R 777 /var/www/awesomeapp/app/storage`
+	
 	If you're on windows you should be able to right click on the **storage** directory and manually change the settings. 
