@@ -106,3 +106,7 @@ If you don't want to have to manually edit your `hosts` file, download this [Vag
 	If you're on a mac...In another terminal outside of your vm `cd` into your `awesomeapp` directory and update the permissions with `sudo chmod -R 777 app/storage`. 
 
 	If you're on windows you should be able to right click on the **storage** directory and manually change the settings. 
+
+11. **IMPORTANT**: If you're done developing for a while, you can halt the vm. `exit` out of the ssh session and run `vagrant halt`. You can then later go back into that directory(where the `Vagrantfile` is) and run `vagrant up` to get it going again. 
+
+	If you screwed something up or were just messing around to learn some server admin stuff, you can destroy the vm with `vagrant destroy`.
